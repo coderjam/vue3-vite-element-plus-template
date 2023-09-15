@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "@antfu"
+  ],
+
+  "rules": {
+    "brace-style": "off",
+    "@typescript-eslint/brace-style": "off",
+    "curly": [
+      2,
+      "all"  // if, else, for, while, do, and with statements always have curly braces
+    ]
+  }
+}
