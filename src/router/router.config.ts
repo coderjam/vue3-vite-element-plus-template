@@ -14,7 +14,7 @@ export const routes: Array<RouteRecordRaw> = [
         name: 'tabBarIndex',
         component: Index,
         meta: {
-          title: '风险自查',
+          title: '首页',
           oauth: false,
           noCache: true,
           showNavBar: false,
